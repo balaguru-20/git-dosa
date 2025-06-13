@@ -19,3 +19,4 @@
 * Paneer
 * tomoto
 * onion
+* Capsicum
