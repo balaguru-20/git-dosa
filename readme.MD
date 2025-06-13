@@ -14,5 +14,6 @@
 
 ## Panner Dosa
 * Dosa Batter
-* Oil
+* Ghee
+* Kaju Paste
 * Paneer
