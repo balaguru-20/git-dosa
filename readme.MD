@@ -16,7 +16,3 @@
 * Dosa Batter
 * Ghee
 * Kaju Paste
-* Paneer
-* tomoto
-* onion
-* Capsicum
