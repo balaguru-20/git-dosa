@@ -12,3 +12,7 @@
 * Dosa Batter
 * 1/2 eggs, karam and oil
 
+## Panner Dosa
+* Dosa Batter
+* Oil
+* Paneer
